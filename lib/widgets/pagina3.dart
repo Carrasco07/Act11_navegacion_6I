@@ -34,7 +34,7 @@ class PaginaTres extends StatelessWidget {
               ),
               child: const Center(
                 child: Text(
-                  '200x200',
+                  'Omar Carrasco 6I',
                   style: TextStyle(color: Colors.white),
                 ),
               ),
